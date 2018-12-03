@@ -1,7 +1,7 @@
 =============================
 FILENAME|TABLE_NAME|SQLSTRING
 =============================
-user.php|user_tbl|user_NAME,user_PASSWD|user_EMAIL|last_LOGIN|
+user.php|user_tbl|user_NAME,user_PASSWD,user_EMAIL,last_LOGIN|
 customer.php|customer_tbl|customer_ID,customer_NAME,customer_EMAIL,customer_PASSWD|
 order.php|order_tbl|order_ID,order_NAME,user_account_ID,product_ID|
 product.php|product_tbl|product_ID,product_NAME|
