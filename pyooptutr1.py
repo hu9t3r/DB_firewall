@@ -39,6 +39,10 @@ new_emp_3 = Employee.split_emp_name(emp_str_3)
 
 print(new_emp_1.email)
 print(Employee.fullname(new_emp_2))
+
+
+
+
 #print(emp_1.fullname())
 #print('{} {}'.format(emp_1.first, emp_1.last))
 #print (emp_1.first + ' ' + emp_1.last)
